@@ -1,0 +1,8 @@
+## Interface: 11507
+## Title: I Can't See!
+## Notes: Constantly clears environmental fog. /ics to set oscillation speed.
+## Author: kirklincoln
+## Version: 1.1.0
+## SavedVariables: ICantSeeDB
+## IconTexture: Interface\ICONS\Spell_Frost_ChillingBlast
+ICantSee.lua
